@@ -1,0 +1,10 @@
+# Default calibration files for EXES
+#   Note: dates are in yy.mmdd format 
+#   and mark the endpoint of applicability.
+#   Paths are relative to exes/data.
+#   
+# date   bpmfile              darkfile              linfile
+14.0501  bpm_2014.04.17.fits  dark_2015.02.13.fits  lincoeff_2015.02.13.fits
+15.0211  bpm_2015.02.06.fits  dark_2015.02.13.fits  lincoeff_2015.02.13.fits
+15.0219  bpm_2015.02.12.fits  dark_2015.02.13.fits  lincoeff_2015.02.13.fits
+9999     bpm_2015.02.06.fits  dark_2015.02.13.fits  lincoeff_2015.02.13.fits
